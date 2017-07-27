@@ -1,6 +1,6 @@
 # qgis2threejs 3d obj and texture exporter
 
-Export obj and texture image from output file of qgis2threejs.
+Export 3d obj and texture image from output file of qgis2threejs.
 
 Usage:
 
@@ -9,6 +9,7 @@ Usage:
 	If output file of qgis2three is your_output_name.html, then copy content of your_output_name.js into index.js.
 
 2. open index.html in chrome browser
+
     .obj file and .html file will be downloaded auto. 
 
 3. Open the html file, right click the image and save as png.
